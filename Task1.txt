@@ -1,0 +1,5 @@
+1. When the number of units are reduced, the predicted values are not aligning with the actual values and the loss is very small.
+Once the number of "units" are increased, the loss is becoming very small and the predicted values are aligning with the actual values
+
+2. Once the number of epochs are reduced, the model is trying to learn the sequence faster and predict the values which are not similar to the actual and the graph is also not symmetrical.
+Once the number of epochs are increased, the model gives the predictions according to the actual. The predicted values are identical to the actual values.
